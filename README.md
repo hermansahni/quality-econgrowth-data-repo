@@ -56,5 +56,5 @@ Click the link: [/data](https://github.com/hermansahni/quality-econgrowth-data-r
 
 
 
-Suggested Citation:
+Suggested Citation: Nsiah, C., Sahni, H., and Fayissa, B. (2025). Quality paper [Data set]. ICPSR. DOI: https://doi.org/. URL: [https://github.com/hermansahni/quality-econgrowth-data-repo](https://github.com/hermansahni/quality-econgrowth-data-repo)
 
