@@ -14,15 +14,16 @@
 
 ### Data folder
 
-[/data](https://github.com/hermansahni/quality-econgrowth-data-repo/tree/e206e178f49ecd8053ad6b975bbfc083b2183dee/data)
+Click the link: [/data](https://github.com/hermansahni/quality-econgrowth-data-repo/tree/e206e178f49ecd8053ad6b975bbfc083b2183dee/data)
 
-### Table of contents
+### Available formats
 
-| sno 	| Dataset name 	| filename 	| format 	| download 	|
-|-----	|--------------	|----------	|--------	|----------	|
-|     	|              	|          	|        	|          	|
-|     	|              	|          	|        	|          	|
-|     	|              	|          	|        	|          	|
+| sno 	| filename 	| format                        	| download                                                                                                                                  	|
+|-----	|----------	|-------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------	|
+|  1   	| qdat.dta 	| Stata                          	| click [here](https://github.com/hermansahni/quality-econgrowth-data-repo/raw/e206e178f49ecd8053ad6b975bbfc083b2183dee/data/qdat.dta)         	|
+|  2   	| qdat.csv 	| comma separated text file       	| click [here](https://github.com/hermansahni/quality-econgrowth-data-repo/raw/e206e178f49ecd8053ad6b975bbfc083b2183dee/data/qdat.csv)         	|
+|  3   	| qdat.xlsx	| Microsoft excel open XML format  	| click [here](https://github.com/hermansahni/quality-econgrowth-data-repo/raw/e206e178f49ecd8053ad6b975bbfc083b2183dee/data/qdat.xlsx)        	|
+|  4   	| qdat.xls 	| Microsoft excel 97-2003 format   	| click [here](https://github.com/hermansahni/quality-econgrowth-data-repo/raw/e206e178f49ecd8053ad6b975bbfc083b2183dee/data/qdat.xls)         	|
 
 
 ***
