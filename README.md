@@ -24,9 +24,9 @@
 
 ***
 
-# Study variables
+### Study variables
 
-***
+
 
 | Variable  | Description                                               |
 |-----------|:----------------------------------------------------------|
