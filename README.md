@@ -12,6 +12,10 @@
 
 ***
 
+### Data folder
+
+[https://github.com/hermansahni/quality-econgrowth-data-repo/tree/e206e178f49ecd8053ad6b975bbfc083b2183dee/data
+](https://github.com/hermansahni/quality-econgrowth-data-repo/tree/e206e178f49ecd8053ad6b975bbfc083b2183dee/data)
 
 ### Table of contents
 
