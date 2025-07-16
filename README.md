@@ -2,7 +2,7 @@
 
 ***
 
-### Title: 
+### Title: Nonlinearities in the Impact of Age Dependency on the Quality of Economic Growth (QGI) in Africa
 
 ***
 
@@ -49,5 +49,5 @@ Click the link: [/data](https://github.com/hermansahni/quality-econgrowth-data-r
 ***
 
 
-*Suggested Citation*: Nsiah, C., Sahni, H., and Fayissa, B. (2025). Quality paper [Data set]. ICPSR. DOI: https://doi.org/. URL: [https://github.com/hermansahni/quality-econgrowth-data-repo](https://github.com/hermansahni/quality-econgrowth-data-repo)
+*Suggested Citation*: Nsiah, C., Sahni, H., and Fayissa, B. (2025). Nonlinearities in the Impact of Age Dependency on the Quality of Economic Growth (QGI) in Africa [Data set]. DOI: [https://doi.org/](not assigned). URL: [https://github.com/hermansahni/quality-econgrowth-data-repo](https://github.com/hermansahni/quality-econgrowth-data-repo)
 
